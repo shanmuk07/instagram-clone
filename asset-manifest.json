@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db7e82aa.css",
+    "main.js": "/static/js/main.73592c1d.js",
+    "static/js/787.9d576594.chunk.js": "/static/js/787.9d576594.chunk.js",
+    "static/media/OMEN.jpg": "/static/media/OMEN.a48eeb76b7a3d17216e5.jpg",
+    "static/media/9364675fb26a.svg": "/static/media/9364675fb26a.d526a734b419e34aa42eee38511341d2.svg",
+    "static/media/post.jpg": "/static/media/post.139c15cd3e63a48341ca.jpg",
+    "static/media/logoinsta.png": "/static/media/logoinsta.dcf5a12d033b843f31b1.png",
+    "static/media/love.svg": "/static/media/love.29cda193b3a91d95b74a752b04ed3143.svg",
+    "index.html": "/index.html",
+    "static/media/comment.svg": "/static/media/comment.5fc1f643c754d792a1dd10f6f63cdd45.svg",
+    "static/media/save.svg": "/static/media/save.9a5f821ab9bbb8babbdee560263519c2.svg",
+    "static/media/share.svg": "/static/media/share.57bc2c4958fb0be8d068e7891c8d69cb.svg",
+    "main.db7e82aa.css.map": "/static/css/main.db7e82aa.css.map",
+    "main.73592c1d.js.map": "/static/js/main.73592c1d.js.map",
+    "787.9d576594.chunk.js.map": "/static/js/787.9d576594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db7e82aa.css",
+    "static/js/main.73592c1d.js"
+  ]
+}
